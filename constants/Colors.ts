@@ -1,5 +1,4 @@
 const tintColorLight = '#2f95dc';
-const tintColorDark = '#52057B';
 const black = '#000000'
 const darkPurple = '#52057B'
 const violet = '#892CDC'
@@ -16,8 +15,8 @@ export default {
   dark: {
     text: '#fff',
     background: '#000',
-    tint: tintColorDark,
+    tint: darkPurple,
     tabIconDefault: '#ccc',
-    tabIconSelected: tintColorDark,
+    tabIconSelected: darkPurple,
   },
 };
